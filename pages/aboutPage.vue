@@ -1,17 +1,5 @@
 <template>
   <div>
-    <header>
-      <nav>
-      <NuxtLink to="/">Nuxt-Demo</NuxtLink>
-        <ul>
-          <li><NuxtLink to="/">Home</NuxtLink></li>
-          <li><NuxtLink to="/about">About</NuxtLink></li>
-          <li><NuxtLink to="/products">Products</NuxtLink></li>
-        </ul>
-        <a href="/about">normal link -- about page</a>
-      </nav>
-    </header>
-
     <h1>AboutPage</h1>
     <p>this is my nuxt project</p>
     <p>this is my nuxt project</p>
